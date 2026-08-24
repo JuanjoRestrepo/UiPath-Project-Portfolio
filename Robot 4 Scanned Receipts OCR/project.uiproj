@@ -1,0 +1,6 @@
+{
+  "Name": "Robot 4 Scanned Receipts OCR",
+  "ProjectType": "Process",
+  "Description": "Scrapes scanned receipts using Optical Character Recognition and then stores values in .txt files",
+  "MainFile": "Main.xaml"
+}

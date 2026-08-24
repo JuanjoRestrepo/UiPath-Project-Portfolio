@@ -1,0 +1,4 @@
+﻿#1 | Receipt ID: 47213527 | Date: 09 August 2022 | Quantity Liters: : 12.66 | Sale Amount: $20.89 | Total Sales: $20.89
+#2 | Receipt ID: 58462358 | Date: 23 August 2022 | Quantity Liters: : 55.32 | Sale Amount: $79.66 | Total Sales: $100.55
+#3 | Receipt ID: 78496352 | Date: 10 March 2023 | Quantity Liters: : 55.32 | Sale Amount: $84.64 | Total Sales: $185.19
+#4 | Receipt ID: 98598969 | Date: 16 May 2023 | Quantity Liters: : 33.11 | Sale Amount: $52.64 | Total Sales: $237.83
